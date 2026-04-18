@@ -8,7 +8,7 @@
 ██████╔╝ ██║     ██║  ██║██║██║ ╚████║╚██████╔╝    ██████╔╝╚██████╔╝╚██████╔╝   ██║   
 ╚═════╝  ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═════╝  ╚══════╝ ╚══════╝   ╚═╝   
 
- ░░░  C R U D - C A R R O S ░░░
+ ░░░  C R U D - C A R R O S  ░░░
 </pre>
 
 <br/>
@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-  <img src="./" alt="Banner Clientes" width="600px">
+  <img src="./Carros.png" alt="Banner Carros" width="600px">
 </div>
 
 ---
